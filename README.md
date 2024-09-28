@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **CSS, React, Machine Learning, AI**
 
-- 💬 Ask me about **C++, JAVA Core**
+- 💬 Ask me about **C++, JAVA Core,Python**
 
 - 📫 How to reach me **abhinashpanigrahi9@gmail.com**
 
