@@ -28,6 +28,7 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
     <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.png" alt="java" width="40" height="40"/> 
+    <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.png" alt="java" width="40" height="40"/> 
   </a>
   <!-- Add other tools similarly -->
 </p>
