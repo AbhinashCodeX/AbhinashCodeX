@@ -7,11 +7,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=24&center=true&vCenter=true&width=700&lines=MCA+Gold+Medalist;Java+Backend+Specialist;Learning+Microservices+and+Cloud;Always+Building+Something+New" />
 </p>
 </p>
-<h1 align="center">I'm Abhinash Panigrahi</h1>
+<!-- <h1 align="center">I'm Abhinash Panigrahi</h1>
 <h3 align="center">A passionate Java Full Stack Java Developer </h3>
 <h3 align="center">I love to Code every Day and It's one of My Hobbies</h3>
 <h3 align="center">Learning Java in Depth and Microservices</h3>
-<h3 align="center">I Hold A Degree Of MCA(Gold Medalist)</h3>
+<h3 align="center">I Hold A Degree Of MCA(Gold Medalist)</h3> -->
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinashcodex&label=Profile%20views&color=0e75b6&style=flat" alt="abhinashcodex" /> </p>
