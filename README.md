@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/AbhinashCodeX)
-<h1 align="center">Heya 👋, I'm Abhinash Panigrahi</h1>
+<h1 align="center">I'm Abhinash Panigrahi</h1>
 <h3 align="center">A passionate Java Full Stack Java Developer </h3>
 <h3 align="center">I love to Code every Day and It's one of My Hobbies</h3>
 <h3 align="center">Learning Java in Depth and Microservices</h3>
@@ -35,14 +35,14 @@
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" width="40" height="40"/>  
     <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.png" alt="javaScript" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" alt="Swagger" width="40" height="40"/> 
-    <img src="	https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png" alt="eclipse" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gitlab.png" alt="GitLab" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" width="40" height="40"/> 
-    <img src="	https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" width="40" height="40"/> 
 
   </a>
   <!-- Add other tools similarly -->
