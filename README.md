@@ -1,4 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/AbhinashCodeX)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Abhinash%20Panigrahi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Java%20Full%20Stack%20Developer%20|%20Spring%20Boot%20|%20Microservices%20|%20React&descAlignY=60" />
+</p>
 <h1 align="center">I'm Abhinash Panigrahi</h1>
 <h3 align="center">A passionate Java Full Stack Java Developer </h3>
 <h3 align="center">I love to Code every Day and It's one of My Hobbies</h3>
