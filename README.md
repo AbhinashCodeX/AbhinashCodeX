@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/AbhinashCodeX)
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Abhinash%20Panigrahi&fontSize=50&color=0:00C9FF,100:92FE9D&stroke=FFFFFF&strokeWidth=1&animation=twinkling&desc=Spring%20Boot%20|%20Microservices%20|%20React%20|%20Java&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:4F46E5,50:7C3AED,100:EC4899&height=220&section=header&text=Abhinash%20Panigrahi&fontSize=48&fontColor=fff&animation=blinking" />
 </p>
 </p>
 <h1 align="center">I'm Abhinash Panigrahi</h1>
