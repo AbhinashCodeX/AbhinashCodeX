@@ -1,16 +1,16 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/AbhinashCodeX)
 <h1 align="center">Heya 👋, I'm Abhinash Panigrahi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Java Full Stack </h3>
 <h3 align="center">I love to Code every Day and It's one of My Hobbies</h3>
-<h3 align="center">Currently Learning Java</h3>
-<h3 align="center">I Hold A Degree Of MCA</h3>
+<h3 align="center">Learning Java in Depth and Microservices</h3>
+<h3 align="center">I Hold A Degree Of MCA(Gold Medalist)</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinashcodex&label=Profile%20views&color=0e75b6&style=flat" alt="abhinashcodex" /> </p>
 
-- 🌱 I’m currently learning **CSS, React, Machine Learning, AI**
+- 🌱 I’m currently learning **React,Microservices & Spring Security**
 
-- 💬 Ask me about **C++, JAVA Core,Python**
+- 💬 Ask me about **JAVA,Adv JAVA,Spring Boot, Spring Data JPA,**
 
 - 📫 How to reach me **abhinashpanigrahi9@gmail.com**
 
@@ -26,8 +26,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-    <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp.png" alt="C" width="40" height="40"/>
+    [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+    <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp.png" alt="C" width="40" height="40"/>](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png)
     <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.png" alt="java" width="40" height="40"/> 
     <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.png" alt="java" width="40" height="40"/> 
     <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.png" alt="java" width="40" height="40"/> 
