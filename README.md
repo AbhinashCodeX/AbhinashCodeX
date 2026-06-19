@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/AbhinashCodeX) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1A2980,50:26D0CE,100:00F260&text=Abhinash%20Panigrahi&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20|%20Spring%20Boot%20|%20Microservices%20|%20React&descAlignY=58&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1A2980,50:26D0CE,100:00F260&text=Abhinash%20Panigrahi&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=ASP.NET%20Full%20Stack%20Developer%20|%20ASP%20.NET%20|%20Microservices%20|%20React&descAlignY=58&descSize=20" />
 </p>
 
 <p align="center">
