@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=24&center=true&vCenter=true&width=700&lines=MCA+Gold+Medalist;Java+Backend+Specialist;Learning+Microservices+and+Cloud;Always+Building+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=24&center=true&vCenter=true&width=700&lines=MCA+Gold+Medalist;ASP.NET+Backend+Specialist;Learning+Microservices+and+Cloud;Always+Building+Something+New" />
 </p>
 </p>
 <!-- <h1 align="center">I'm Abhinash Panigrahi</h1>
