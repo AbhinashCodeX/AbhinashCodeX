@@ -16,7 +16,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinashcodex&label=Profile%20views&color=0e75b6&style=flat" alt="abhinashcodex" /> </p>
 
-- 🌱 I’m currently learning **React,Microservices & Spring Security**
+- 🌱 I’m currently learning **React,Microservices & ASP.NET Core**
 
 - 💬 Ask me about ** JAVA, Adv JAVA, ASP.NET , C#**
 
