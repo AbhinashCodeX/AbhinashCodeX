@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **React,Microservices & ASP.NET Core**
 
-- 💬 Ask me about ** JAVA, Adv JAVA, ASP.NET , C#**
+- 💬 Ask me about ** JAVA, ASP.NET , C#**
 
 - 📫 How to reach me **abhinashpanigrahi9@gmail.com**
 
