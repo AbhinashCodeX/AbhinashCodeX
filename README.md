@@ -1,56 +1,228 @@
-<!-- [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/AbhinashCodeX) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1A2980,50:26D0CE,100:00F260&text=Abhinash%20Panigrahi&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%20Full%20Stack%20Developer%20|%20ASP%20.NET%20|%20Microservices%20|%20React&descAlignY=58&descSize=20" />
-</p>
+<!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=24&center=true&vCenter=true&width=700&lines=MCA+Gold+Medalist;ASP.NET+Backend+Specialist;Learning+Microservices+and+Cloud;Always+Building+Something+New+and+Innovative" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1A2980,50:26D0CE,100:00F260&text=Abhinash%20Panigrahi&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=ASP.NET%20Backend%20Developer%20|%20React%20|%20Microservices%20|%20Cloud&descAlignY=58&descSize=20"/>
 </p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=24&center=true&vCenter=true&width=700&lines=MCA+Gold+Medalist;ASP.NET+Backend+Developer;Learning+Microservices+and+Cloud;Always+Building+Scalable+Applications"/>
 </p>
-<!-- <h1 align="center">I'm Abhinash Panigrahi</h1>
-<h3 align="center">A passionate Java Full Stack Java Developer </h3>
-<h3 align="center">I love to Code every Day and It's one of My Hobbies</h3>
-<h3 align="center">Learning Java in Depth and Microservices</h3>
-<h3 align="center">I Hold A Degree Of MCA(Gold Medalist)</h3> -->
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinashcodex&label=Profile%20views&color=0e75b6&style=flat" alt="abhinashcodex" /> </p>
+---
 
-- 🌱 I’m currently learning **React,Microservices & ASP.NET Core**
+# 👋 About Me
 
-- 💬 Ask me about **JAVA, ASP.NET, SQL, C#**
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 
-- 📫 How to reach me **abhinashpanigrahi9@gmail.com**
+- 🎓 MCA Gold Medalist
+- 💼 ASP.NET Backend Developer
+- 🌱 Learning Microservices, Azure & Docker
+- ⚛️ Exploring React Ecosystem
+- 💬 Ask me about **C#, ASP.NET Core, Java, SQL**
+- 📫 Reach me at **abhinashpanigrahi9@gmail.com**
+- 🏋️ Gym Enthusiast & Lifelong Learner
 
-- ⚡ Fun fact **I think I am Career Oriented and Fitness Freak**
+---
 
-<h3 align="left">Connect with me:</h3>
+# 🚀 Current Focus
+
+- ✔ ASP.NET Core MVC
+- ✔ ASP.NET Core Web API
+- ✔ Entity Framework Core
+- ✔ SQL Server
+- ✔ React
+- ✔ Microservices
+- ✔ Docker
+- ✔ Azure
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,java,js,html,css,sql"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,spring,maven"/>
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,bootstrap"/>
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,postman,docker"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Tech Stack |
+|----------|------------|
+| Employee Grievance Management System | ASP.NET Core MVC, SQL Server |
+| Weather Application | HTML, CSS, JavaScript, Weather API |
+| University Management System | ASP.NET Core |
+| Spring Boot Web Scraper | Java, Spring Boot |
+| Netflix Clone | HTML, CSS |
+
+---
+
+# 🏆 Achievements
+
+🥇 MCA Gold Medalist
+
+🏅 IBM SkillsBuild Certified
+
+💻 Passionate Full Stack Developer
+
+🚀 Always Learning New Technologies
+
+---
+
+# 📜 Certifications
+
+✔ IBM SkillsBuild
+
+✔ IBM Front-End Web Development Internship
+
+✔ Prompt Engineering
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhinashCodeX&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinashCodeX&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinashCodeX&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinashCodeX&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📊 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhinashCodeX&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AbhinashCodeX&theme=algolia&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/AbhinashCodeX/AbhinashCodeX/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 💬 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/abhinash-panigrahi-9a17b626b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23871508/abhinash-panigrahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-<a href="https://www.instagram.com/abhinash_panigrahi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/abhinash-panigrahi-9a17b626b/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://stackoverflow.com/users/23871508/abhinash-panigrahi">
+<img src="https://cdn.simpleicons.org/stackoverflow/F58025"/>
+</a>
+
+<a href="https://www.instagram.com/abhinash_panigrahi/">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="mailto:abhinashpanigrahi9@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" alt="spring" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="spring boot" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/maven.png" alt="Maven" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hibernate.png" alt="Hibernate" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lombok.png" alt="Lombok" width="40" height="40"/> 
-    <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.png" alt="java" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" width="40" height="40"/>  
-    <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.png" alt="javaScript" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" alt="Swagger" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png" alt="eclipse" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gitlab.png" alt="GitLab" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" width="40" height="40"/> 
+---
 
-  </a>
-  <!-- Add other tools similarly -->
+# 👀 Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=AbhinashCodeX&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💡 Developer Philosophy
+
+<p align="center">
+
+> **"First solve the problem, then write the code."**
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=120&section=footer"/>
+
+</p>
