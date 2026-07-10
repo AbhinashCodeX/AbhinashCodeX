@@ -177,26 +177,24 @@
 
 ---
 
-# 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
-<p align="left">
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhinash-panigrahi-9a17b626b/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/abhinash-panigrahi-9a17b626b/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+  <a href="https://stackoverflow.com/users/23871508/abhinash-panigrahi" target="_blank">
+    <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="50"/>
+  </a>
 
-<a href="https://stackoverflow.com/users/23871508/abhinash-panigrahi">
-<img src="https://cdn.simpleicons.org/stackoverflow/F58025"/>
-</a>
+  <a href="https://www.instagram.com/abhinash_panigrahi/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+  </a>
 
-<a href="https://www.instagram.com/abhinash_panigrahi/">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
-<a href="mailto:abhinashpanigrahi9@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
+  <a href="mailto:abhinashpanigrahi9@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  </a>
 </p>
 
 ---
