@@ -112,14 +112,6 @@
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinashCodeX&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
