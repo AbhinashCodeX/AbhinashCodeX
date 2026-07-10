@@ -152,22 +152,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhinashCodeX&theme=algolia&no-frame=true&margin-w=15"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AbhinashCodeX/AbhinashCodeX/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 # 💬 Random Dev Quote
 
 <p align="center">
