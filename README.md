@@ -23,7 +23,7 @@
 - 💼 ASP.NET Backend Developer
 - 🌱 Learning Microservices, Azure & Docker
 - ⚛️ Exploring React Ecosystem
-- 💬 Ask me about **C#, ASP.NET Core, Java, SQL**
+- 💬 Ask me about **C#, ASP.NET Core, Java, SQL, Postgresql**
 - 📫 Reach me at **abhinashpanigrahi9@gmail.com**
 - 🏋️ Gym Enthusiast & Lifelong Learner
 
