@@ -25,7 +25,7 @@
 - ⚛️ Exploring React Ecosystem
 - 💬 Ask me about **C#, ASP.NET Core, Java, SQL, Postgresql**
 - 📫 Reach me at **abhinashpanigrahi9@gmail.com**
-- 🏋️ Gym Enthusiast & Lifelong Learner
+- 🏋️ Gym Enthusiast& Powerlifter & Lifelong Learner
 
 <br clear="both"/>
 
