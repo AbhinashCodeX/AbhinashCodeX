@@ -19,7 +19,7 @@
   alt="Developer workspace animation"
 />
 
-- 🎓 MCA Gold Medalist
+- 🎓 MCA Gold Medalist.
 - 💼 ASP.NET Backend Developer
 - 🌱 Learning Microservices, Azure & Docker
 - ⚛️ Exploring React Ecosystem
