@@ -10,7 +10,7 @@
 
 ---
 
-# 👋 About Mew
+# 👋 About Me
 
 <img
   align="right"
