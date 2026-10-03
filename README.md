@@ -78,15 +78,93 @@
 
 ---
 
-# 🚀 Featured Projects
-
 | Project | Tech Stack |
 |---|---|
-| Employee Grievance Management System | ASP.NET Core MVC, SQL Server |
-| Weather Application | HTML, CSS, JavaScript, Weather API |
-| University Management System | ASP.NET Core |
-| Spring Boot Web Scraper | Java, Spring Boot |
-| Netflix Clone | HTML, CSS |
+| 🏛️ **ICAI Multi-Branch Website & CMS Platform** | ASP.NET Core MVC, C#, EF Core, SQL Server, jQuery, AJAX |
+| 📅 **Schedule Management System** | ASP.NET Core MVC, C#, EF Core, SQL Server, jQuery, AJAX, Bootstrap |
+| 🧑‍💼 **Employee Grievance Management System** | ASP.NET Core MVC, SQL Server |
+| 🎓 **University Management System** | ASP.NET Core |
+| ☕ **Spring Boot Web Scraper** | Java, Spring Boot |
+
+---
+# 💼 Professional Project Showcase
+
+## 🏛️ ICAI Multi-Branch Website & CMS Platform
+
+A dynamic multi-branch web platform developed for **The Institute of Chartered Accountants of India (ICAI)**, designed to manage and deliver branch-specific content across multiple regional councils and branches through a centralized Content Management System.
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AJAX-005571?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+</p>
+
+### 🖥️ Centralized CMS Dashboard
+
+<p align="center">
+  <img src="./ICAI-CMS.png" width="850" alt="ICAI Centralized CMS Dashboard"/>
+</p>
+
+The centralized CMS provides branch-level administration, content management, branch monitoring and dynamic website configuration from a unified dashboard.
+
+### 🌐 Regional Branch Websites
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<strong>🏢 CIRC</strong>
+<br/><br/>
+<img src="./ICAI-CIRC.png" width="100%" alt="ICAI CIRC Branch Website"/>
+</td>
+
+<td width="50%" align="center" valign="top">
+<strong>🏢 NIRC</strong>
+<br/><br/>
+<img src="./ICAI-NIRC.png" width="100%" alt="ICAI NIRC Branch Website"/>
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center" valign="top">
+<strong>🏢 SIRC</strong>
+<br/><br/>
+<img src="./ICAI-SIRC.png" width="100%" alt="ICAI SIRC Branch Website"/>
+</td>
+
+<td width="50%" align="center" valign="top">
+<strong>🏢 EIRC</strong>
+<br/><br/>
+<img src="./ICAI-EIRC.png" width="100%" alt="ICAI EIRC Branch Website"/>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <strong>🏢 WIRC</strong>
+</p>
+
+<p align="center">
+  <img src="./ICAI-WIRC.png" width="48%" alt="ICAI WIRC Branch Website"/>
+</p>
+
+### ⚙️ Key Contributions
+
+- Developed and maintained dynamic **ASP.NET Core MVC** branch websites.
+- Worked on a centralized **CMS** for managing multiple ICAI branch websites.
+- Implemented branch-specific content management and dynamic data rendering.
+- Developed modules for **Announcements, Events, Opportunities, Background Materials** and other branch content.
+- Implemented branch-based filtering and content management.
+- Developed dynamic dashboard components and data visualizations.
+- Integrated **SQL Server** with **Entity Framework Core** for data management.
+- Used **JavaScript, jQuery and AJAX** for asynchronous operations and interactive functionality.
+- Worked with reusable layouts and components to support multiple regional and branch websites.
 
 ---
 
