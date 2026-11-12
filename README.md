@@ -10,7 +10,7 @@
 
 ---
 
-# 👋 About Mee
+# 👋 About Me
 
 <img
   align="right"
